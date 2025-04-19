@@ -1,4 +1,4 @@
-package opps_programming_optimizing_style2;
+package balloonValidation;
 
 public class BaloonValidation {
 public static boolean baloonColourValidation(String baloonColour) {
